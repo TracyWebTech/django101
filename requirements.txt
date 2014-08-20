@@ -1,0 +1,4 @@
+django
+ipython
+pillow
+flake8
